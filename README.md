@@ -11,12 +11,6 @@
 ### Sobre o Projeto
 Aplicativo Android para piadas aleatórias do Chuck Norris, a partir de uma API. Neste app foram abordados fundamentos importantes como: 
 
-<br/>
-
-### Preview
-
-<img src="https://github.com/joalissongomes1994/joker-master/blob/master/screenshots/jokeApp-video.gif" width="300" />
-
 * arquitetura MVP
 * RecyclerView 
 * Fragmentos
@@ -24,6 +18,13 @@ Aplicativo Android para piadas aleatórias do Chuck Norris, a partir de uma API.
 * download de imagens e cache com o framework
 * navegação por fragmentos
 * menu drawer
+
+<br/>
+
+### Preview do App
+
+<img src="https://github.com/joalissongomes1994/joker-master/blob/master/screenshots/jokeApp-video.gif" width="300" />
+
 
 ![](./screenshots/screen_recording.gif)
 
