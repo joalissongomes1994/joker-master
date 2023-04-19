@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Joker App</string>
+    <string name="menu_home">Start</string>
+    <string name="menu_joke_day">Joke day</string>
+    <string name="menu_about">About</string>
+    <string name="social">Social</string>
+    <string name="app_description">Chuck Norris (Ryan, March 10, 1940) is an American martial artist, actor, film producer, screenwriter. After serving in the United States Air Force, he began to make a name for himself as a practitioner of martial arts. In 1990, he founded his martial arts school, Chun Kuk Do, and in 2005, the World Combat League (WCL), a team combat competition.</string>
+    <string name="app_link">https://pt.wikipedia.org/wiki/Chuck_Norris</string>
+    <string name="build_version">Version (%1$s)</string>
+</resources>
